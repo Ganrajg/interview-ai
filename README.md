@@ -1,2 +1,2 @@
 # interview-ai
-AI Interview Preparation Website
+AI Interview Preparation Website.
